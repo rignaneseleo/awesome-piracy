@@ -1228,6 +1228,7 @@ premium services
 ## File Sharing Tools
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+- [Dukto R6](http://www.msec.it/blog/?page_id=11) Dukto is a free, open source and multi platform software to share files inside LANs. It just works.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
